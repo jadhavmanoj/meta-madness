@@ -5,5 +5,5 @@ Agenda
 
 - [Intro to functional programming](http://nbviewer.ipython.org/github/jargnar/meta-madness/blob/master/functions.ipynb)
 - [Decorators](http://nbviewer.ipython.org/github/jargnar/meta-madness/blob/master/decorators.ipynb)
-- Metaclasses
+- [Metaclasses](http://nbviewer.ipython.org/github/jargnar/meta-madness/blob/master/metaclasses.ipynb)
 - Abstract Syntax Tree
